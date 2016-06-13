@@ -1,0 +1,1001 @@
+indictmentType,repairTime,repairStatus,repairOperator,partId,designator
+Wrong Polarity,1445605306919,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306919,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306919,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306919,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306919,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306919,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306919,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306919,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306919,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306919,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306919,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306920,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306920,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306920,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306920,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306920,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306920,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306920,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306920,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306920,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306920,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306920,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306920,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306920,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306920,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306920,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306920,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306920,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306920,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306920,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306920,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306920,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306920,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306920,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306920,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306921,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306921,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306921,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306921,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306921,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306921,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306921,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306921,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306921,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306921,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306921,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306921,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306921,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306921,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306921,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306921,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306921,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306921,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306921,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306921,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306921,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306921,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306922,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306922,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306922,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306922,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306922,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306922,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306922,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306922,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306922,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306922,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306922,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306922,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306922,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306922,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306922,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306923,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306923,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306923,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306923,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306923,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306923,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306923,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306923,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306923,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306923,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306923,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306923,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306923,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306923,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306923,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306924,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306924,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306924,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306924,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306924,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306924,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306924,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306924,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306924,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306924,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306924,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306924,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306924,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306924,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306924,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306925,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306925,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306925,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306925,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306925,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306925,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306925,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306925,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306925,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306925,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306925,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306925,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306925,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306925,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306925,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306926,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306926,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306926,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306926,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306926,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306926,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306926,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306926,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306926,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306926,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306926,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306926,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306926,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306926,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306926,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306927,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306927,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306927,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306927,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306927,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306927,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306927,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306927,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306927,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306927,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306927,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306927,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306927,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306927,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306927,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306927,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306927,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306928,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306928,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306928,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306928,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306928,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306928,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306928,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306928,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306928,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306928,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306928,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306928,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306928,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306928,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306929,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306929,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306929,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306929,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306929,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306929,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306929,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306929,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306929,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306929,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306929,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306929,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306929,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306929,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306929,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306929,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306929,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306929,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306929,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306929,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306929,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306929,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306929,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306929,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306930,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306930,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306930,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306930,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306930,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306930,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306930,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306930,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306930,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306930,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306930,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306930,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306930,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306930,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306930,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306930,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306930,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306930,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306930,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306930,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306930,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306930,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306930,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306931,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306931,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306931,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306931,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306931,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306931,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306931,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306931,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306931,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306931,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306931,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306931,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306931,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306931,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306931,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306931,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306931,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306931,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306931,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306931,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306931,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306931,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306932,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306932,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306932,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306932,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306932,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306932,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306932,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306932,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306932,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306932,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306932,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306933,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306933,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306933,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306933,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306933,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306933,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306933,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306933,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306933,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306933,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306933,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306933,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306933,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306933,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306933,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306934,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306934,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306934,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306934,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306934,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306934,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306934,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306934,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306934,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306934,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306934,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306934,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306934,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306934,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306934,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306935,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306935,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306935,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306935,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306935,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306935,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306935,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306935,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306935,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306935,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306935,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306935,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306935,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306936,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306936,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306936,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306936,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306936,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306936,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306936,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306936,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306936,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306936,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306936,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306936,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306936,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306936,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306937,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306937,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306937,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306937,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306937,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306937,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306937,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306937,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306937,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306937,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306937,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306937,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306938,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306938,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306938,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306938,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306938,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306938,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306938,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306938,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306938,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306938,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306938,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306938,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306938,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306938,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306939,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306939,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306939,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306939,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306939,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306939,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306939,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306939,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306939,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306939,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306939,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306939,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306939,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306939,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306939,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306940,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306940,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306940,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306940,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306940,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306940,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306940,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306940,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306940,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306940,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306940,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306940,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306940,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306940,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306940,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306940,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306940,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306940,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306940,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306941,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306941,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306941,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306941,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306941,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306941,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306941,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306941,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306941,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306941,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306941,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306941,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306941,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306941,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306941,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306941,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306941,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306941,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306942,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306942,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306942,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306942,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306942,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306942,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306942,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306942,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306942,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306942,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306942,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306942,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306942,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306942,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306942,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306942,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306942,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306942,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306942,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306943,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306943,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306943,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306943,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306943,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306943,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306943,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306943,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306943,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306943,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306943,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306943,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306943,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306943,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306943,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306943,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306943,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306943,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306943,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306943,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306943,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306943,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306944,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306944,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306944,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306944,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306944,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306944,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306944,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306944,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306944,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306944,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306944,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306944,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306944,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306944,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306944,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306944,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306944,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306944,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306944,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306945,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306945,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306945,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306945,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306945,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306945,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306945,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306945,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306945,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306945,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306945,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306945,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306945,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306945,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306945,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306945,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306945,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306945,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306946,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306946,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306946,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306946,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306946,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306946,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306946,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306946,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306946,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306946,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306946,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306946,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306946,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306946,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306946,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306946,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306946,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306947,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306947,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306947,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306947,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306947,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306947,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306947,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306947,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306947,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306947,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306947,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306947,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306947,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306947,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306947,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306947,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306947,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306947,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306948,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306948,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306948,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306948,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306948,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306948,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306948,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306948,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306948,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306948,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306948,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306948,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306948,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306948,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306948,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306948,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306948,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306948,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306948,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306948,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306948,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306948,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306948,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306948,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306948,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306948,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306948,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306948,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306949,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306949,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306949,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306949,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306949,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306949,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306949,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306949,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306949,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306949,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306949,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306949,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306949,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306949,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306949,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306949,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306949,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306949,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306949,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306949,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306949,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306949,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306949,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306949,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306949,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306949,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306949,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306949,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306949,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306949,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306950,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306950,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306950,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306950,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306950,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306950,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306950,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306950,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306950,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306950,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306950,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306950,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306950,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306950,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306950,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306950,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306950,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306950,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306950,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306950,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306950,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306950,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306950,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306950,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306950,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306950,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306950,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306950,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306950,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306950,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306951,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306951,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306951,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306951,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306951,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306951,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306951,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306951,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306951,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306951,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306951,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306951,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306951,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306951,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306951,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306951,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306951,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306951,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306951,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306951,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306951,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306951,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306951,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306951,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306951,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306951,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306951,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306951,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306952,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306952,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306952,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306952,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306952,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306952,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306952,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306952,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306952,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306952,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306952,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306952,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306952,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306952,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306952,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306952,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306952,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306952,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306952,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306952,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306952,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306952,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306952,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306952,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306952,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306953,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306953,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306953,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306953,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306953,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306953,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306953,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306953,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306953,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306953,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306953,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306953,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306953,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306953,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306953,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306953,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306953,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306953,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306953,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306953,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306953,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306953,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306953,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306953,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306953,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306953,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306954,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306954,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306954,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306954,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306954,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306954,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306954,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306954,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306954,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306954,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306954,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306954,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306954,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306954,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306954,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306954,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306954,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306954,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306954,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306954,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306954,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306954,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306954,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306954,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306954,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306954,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306954,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306954,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306954,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306954,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306954,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306955,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306955,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306955,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306955,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306955,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306955,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306955,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306955,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306955,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306955,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306955,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306955,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306955,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306955,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306955,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306955,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306955,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306955,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306955,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306955,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306955,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306955,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306956,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306956,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306956,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306956,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306956,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306956,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306956,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306956,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306956,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306956,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306956,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306956,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306956,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306956,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306956,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306956,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306956,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306956,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306956,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306956,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306956,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306957,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306957,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306957,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306957,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306957,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306957,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306957,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306957,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306957,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306957,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306957,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306957,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306957,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306957,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306957,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306957,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306957,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306957,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306957,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306957,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306958,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306958,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306958,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306958,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306958,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306958,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306958,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306958,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306958,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306958,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306958,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306958,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306958,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306958,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306958,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306958,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306958,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306958,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306958,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306958,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306958,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306958,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306958,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306958,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306958,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306958,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306958,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306958,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306958,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306958,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306958,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306958,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306959,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306959,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306959,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306959,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306959,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306959,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306959,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306959,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306959,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306959,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306959,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306959,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306959,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306959,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306959,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306959,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306959,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306959,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306959,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306959,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306959,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306959,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306959,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306959,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306959,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306959,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306959,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306959,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306959,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306959,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306959,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306959,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306960,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306960,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306960,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306960,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306960,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306960,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306960,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306960,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306960,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306960,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306960,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306960,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306960,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306960,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306960,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306960,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306960,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306960,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306960,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306960,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306960,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306960,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306960,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306960,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306961,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306961,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306961,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306961,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306961,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306961,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306961,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306961,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306961,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306961,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306961,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306961,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306961,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306961,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306961,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306961,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306961,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306961,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306961,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306961,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306961,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306961,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306962,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306962,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306962,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306962,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306962,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306962,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306962,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306962,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306962,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306962,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306962,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306962,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306962,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306962,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306962,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306962,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306962,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306962,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306962,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306962,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306962,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306962,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306962,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306963,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306963,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306963,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306963,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306963,Damaged,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306963,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306963,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306963,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306963,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306963,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306963,False Call,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306963,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306963,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306963,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306963,False Call,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306963,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306963,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306963,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306963,False Call,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306963,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306963,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306963,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306963,Fixed,GhazaliN5,r12-2905-02,abc
+Wrong Polarity,1445605306964,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306964,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306964,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306964,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306964,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306964,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306964,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306964,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306964,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306964,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306964,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306964,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306964,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306964,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306964,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306964,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306964,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306964,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306964,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306964,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306964,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306964,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306964,Damaged,Siemens,r12-2905-02,abc
+Skewed,1445605306964,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306965,Damaged,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306965,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306965,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306965,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306965,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306965,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306965,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306965,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306965,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306965,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306965,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306965,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306965,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306965,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306965,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306965,Damaged,Siemens,btant-3690-blk,abc
+Skewed,1445605306965,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306965,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306965,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306965,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306965,Damaged,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306965,Fixed,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306965,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306965,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306965,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306966,Fixed,Siemens,btant-3690-blk,abc
+Skewed,1445605306966,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306966,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306966,Damaged,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306966,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306966,Fixed,Siemens,r12-2905-02,abc
+Skewed,1445605306966,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306966,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306966,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306966,Fixed,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306966,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306966,Fixed,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306966,False Call,Siemens,r12-2905-02,abc
+Skewed,1445605306966,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306966,False Call,GhazaliN5,r12-2905-02,abc
+Skewed,1445605306966,False Call,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306966,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306966,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306966,Fixed,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306966,False Call,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306966,Fixed,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306966,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306967,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306967,False Call,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306967,Fixed,GhazaliN5,btant-3690-blk,abc
+BadJoint,1445605306967,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306967,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306967,Fixed,Siemens,btant-3690-blk,abc
+BadJoint,1445605306967,False Call,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306967,Damaged,GhazaliN5,r12-2905-02,abc
+BadJoint,1445605306967,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306967,Damaged,Siemens,r12-2905-02,abc
+BadJoint,1445605306967,False Call,Siemens,btant-3690-blk,abc
+BadJoint,1445605306967,Fixed,Siemens,btant-3690-blk,abc
+Wrong Polarity,1445605306967,False Call,Siemens,btant-3690-blk,abc
+Skewed,1445605306967,Damaged,GhazaliN5,btant-3690-blk,abc
+Wrong Polarity,1445605306967,Damaged,Siemens,r12-2905-02,abc
+Wrong Polarity,1445605306967,False Call,Siemens,r12-2905-02,abc
+BadJoint,1445605306967,Damaged,Siemens,btant-3690-blk,abc
+BadJoint,1445605306967,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306967,Fixed,Siemens,r12-2905-02,abc
+BadJoint,1445605306967,Damaged,GhazaliN5,btant-3690-blk,abc
+Skewed,1445605306967,Fixed,Siemens,r12-2905-02,abc

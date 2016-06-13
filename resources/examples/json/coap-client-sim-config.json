@@ -1,0 +1,11 @@
+{
+  "urn": "sensorTree",
+  "dataset": "accelero.csv",
+  "resources": [
+    {
+      "uri": "acceleroMeter/json",
+      "contentType": "json",
+      "contentTemplateFile": "accelero.template"
+    }
+  ]
+}

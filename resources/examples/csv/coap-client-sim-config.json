@@ -1,0 +1,19 @@
+{
+  "urn": "Container",
+  "dataset": "data.csv",
+  "queryParameter": {
+   "name": "deviceId",
+   "value": "containerA"
+  },  
+  "intervalInMilliSeconds": 1000,
+  "resources": [
+    {
+      "uri": "all",
+      "contentType": "csv",
+      "contentTemplateFile": "csv.template"
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,36 @@
+{
+  "urn": "sensorTree",
+  "dataset": "accelero.csv",
+  "queryParameter": {
+    "name": "deviceId",
+    "value": "accellero"
+  },
+  "intervalInMilliSeconds": 1000,
+  "resources": [
+    {
+      "uri": "acceleroMeter/xAxis",
+      "contentType": "raw",
+      "contentTemplate": "${xAxis}"
+    },
+    {
+      "uri": "acceleroMeter/yAxis",
+      "contentType": "raw",
+      "contentTemplate": "${yAxis}"
+    },
+    {
+      "uri": "acceleroMeter/zAxis",
+      "contentType": "raw",
+      "contentTemplate": "${zAxis}"
+    },
+    {
+      "uri": "acceleroMeter/json",
+      "contentType": "json",
+      "contentTemplateFile": "accelero.template"
+    },
+    {
+      "uri": "acceleroMeter/cbor",
+      "contentType": "cbor",
+      "contentTemplateFile": "accelero.template"
+    }
+  ]
+}
