@@ -1,0 +1,23 @@
+{
+  "urn": "Container",
+  "dataset": "apcargodata.csv",
+  "queryParameter": {
+   "name": "deviceId",
+   "value": "containerA"
+  },  
+  "intervalInMilliSeconds": 1000,
+  "resources": [
+    {
+      "uri": "temperature",
+      "contentType": "raw",
+      "contentTemplate": "${temperatureValue}"
+    },
+    {
+      "uri": "humidity",
+      "contentType": "raw",
+      "contentTemplate": "${humidityValue}"
+    }
+  ]
+}
+
+
